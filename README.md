@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Health Companion 🏥
 
 AI-powered healthcare assistant with symptom analysis & diabetes risk prediction using ML model.
@@ -92,3 +93,7 @@ gh repo create aswinsyam/ai-health-companion --public --push
 
 **Enjoy AI Health Companion! 🚀**
 **Repo**: https://github.com/aswinsyam/ai-health-companion
+=======
+# Ai-Health-Companion
+AI Health Backend is a machine learning–powered healthcare system that analyzes user symptoms and predicts diabetes risk using trained ML models. The backend provides intelligent health insights and recommendations through API services.
+>>>>>>> e397f2e2364ea4a2c7c4ef07eead9e893230a997
