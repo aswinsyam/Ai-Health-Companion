@@ -1,0 +1,6 @@
+age
+blood_pressure
+cholesterol
+glucose
+smoker
+bmi
